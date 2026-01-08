@@ -94,11 +94,7 @@ button {
       O <strong>cardápio é surpresa</strong> 🍽️  
       mas o amor é garantido.
     </p>
-
-    <div class="photo">
-      <img src="d
-
-    <div class="love-text">Eu Te Amo ❤️</div>
+ <div class="love-text">Eu Te Amo ❤️</div>
   </div>
 </div>
 
